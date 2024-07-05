@@ -41,4 +41,4 @@ O K-Nearest Neighbors (KNN) é um algoritmo de aprendizado supervisionado utiliz
 Para começar, clone o repositório e instale as dependências necessárias:
 
 ```sh
-git clone https://github.com/TorresCode/ClassificarKNN/blob/main/Classificador_KNN.ipynb
+git clone https://github.com/TorresCode/ClassificarKNN
