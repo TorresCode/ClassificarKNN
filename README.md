@@ -2,7 +2,7 @@
 
 # K-Nearest Neighbors com Scikit-Learn
 
-![KNN Banner](https://user-images.githubusercontent.com/your-username/knn-banner.png)
+![KNN Banner](https://github.com/TorresCode/IA/blob/main/Screenshot%20from%202024-07-05%2003-35-44.png?raw=true)
 
 ---
 
@@ -50,6 +50,6 @@ O K-Nearest Neighbors (KNN) é um algoritmo de aprendizado supervisionado utiliz
 Para começar, clone o repositório e instale as dependências necessárias:
 
 ```sh
-git clone https://github.com/TorresCode/IA.git
-cd IA
+git clone https://github.com/TorresCode/ClassificarKNN/blob/main/Classificador_KNN.ipynb
+cd ClassificarKNN
 pip install -r requirements.txt
