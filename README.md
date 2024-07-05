@@ -42,5 +42,3 @@ Para começar, clone o repositório e instale as dependências necessárias:
 
 ```sh
 git clone https://github.com/TorresCode/ClassificarKNN/blob/main/Classificador_KNN.ipynb
-cd ClassificarKNN
-pip install -r requirements.txt
