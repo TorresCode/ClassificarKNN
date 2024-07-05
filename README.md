@@ -16,15 +16,6 @@ Este projeto demonstra a implementação e aplicação do algoritmo K-Nearest Ne
 
 O notebook Jupyter `Sklearn(KNN_July_04_2024_23_15).ipynb` inclui a preparação dos dados, treinamento do modelo, avaliação de desempenho e visualização dos resultados.
 
-## Tabela de Conteúdos
-
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Exemplos de Código](#exemplos-de-código)
-- [Resultados](#resultados)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
 ## Classificador KNN
 
 ### Descrição Resumida
